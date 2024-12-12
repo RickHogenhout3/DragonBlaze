@@ -162,3 +162,18 @@ header {
     background-color: #f4f4f4;
     width: 100%;
 }
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 20px; /* Adds space above the table */
+}
+table th, table td {
+    padding: 5px; /* Adjust as needed for closer spacing */
+}
+p {
+    margin-bottom: 20px; /* Adds space below each paragraph */
+}

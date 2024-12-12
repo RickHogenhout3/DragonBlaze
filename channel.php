@@ -19,15 +19,26 @@
         <h1>DragonBlaze</h1>
         <img src="img/dragonblaze.png" alt="DB">
         <div class="row">
-        <p> I am DragonBlaze! a.k.a Andrew!</p> 
-        <p>I'm a YouTuber/Twitch streamer who likes to have fun and entertain people! </p>
-<p>Used to be all about Inazuma Eleven on YT and now I'm playing basically whatever. Usually something on the Nintendo Switch.</p> 
-<p>Hope you guys will enjoy this page, it is pretty much going to be about.. well.. me!</p> 
-<p>Going to make it more personal to have my subs know who I am and stuff and hopefully it will be a fun time!</p> 
-<p>I will try and update this page as much as I can!</p>
-<p>If there ever is a idea of a certain page you would like to see on my Website, just say it.</p>
-<p>This is a page for myself, but also like I said for my subscribers, so if there ever would be a thing that you would like to know, just say so and I'll think about it if I will add it to the website! :] </p>
-<p>Hopefully you guys will all enjoy and the way of talking to me if there ever would be a moment when you want to advice me something on the page can be done through Discord!</p> 
-</main>
+        <p>Hi! My name is DragonBlaze and my real name is Andrew!</p> 
+        <p>I'm 24 years old and live in The Netherlands!</p>
+        <p>Will probably only use this website for my Dutch story lmao </p>
+        <table>
+            <tr>
+                <th>My Twitter:</th>
+                <td>@DragonBlazeV2</td>
+            </tr>
+            <tr>
+                <th>My Youtube channel:</th>
+                <td>DragonBlaze</td>
+            </tr>
+            <tr>
+                <th>My Instagram:</th>
+                <td>DragonBlazeV2</td>
+            </tr>
+            <tr>
+                <th>Twitch:</th>
+                <td>DragonBlazev2</td>
+            </tr>
+        </table>
 </body>
 </html>
