@@ -13,7 +13,12 @@
     <?php include_once "header.php" ?> 
 
     <main class="hero-section">
-        <h1>Welcome to the home page!</h1>
+    <div class="justify-content-center mb-3">
+            <a href="https://www.youtube.com/user/DragonBlazeV2/featured" class="button">GO DIRECTLY TO MY CHANNEL!</a>
+    </div>
+        <h1>DragonBlaze</h1>
+        <img src="img/dragonblaze.png" alt="DB">
+        <div class="row">
         <p> I am DragonBlaze! a.k.a Andrew!</p> 
         <p>I'm a YouTuber/Twitch streamer who likes to have fun and entertain people! </p>
 <p>Used to be all about Inazuma Eleven on YT and now I'm playing basically whatever. Usually something on the Nintendo Switch.</p> 
@@ -24,22 +29,5 @@
 <p>This is a page for myself, but also like I said for my subscribers, so if there ever would be a thing that you would like to know, just say so and I'll think about it if I will add it to the website! :] </p>
 <p>Hopefully you guys will all enjoy and the way of talking to me if there ever would be a moment when you want to advice me something on the page can be done through Discord!</p> 
 </main>
-<div class="pages-wrapper">
-<div class="pages container py-4">
-    <div class="row">
-        <div class="col-md-6 d-flex justify-content-center mb-3">
-            <a href="https://www.youtube.com/user/DragonBlazeV2/featured" class="button">GO DIRECTLY TO MY YOUTUBE PAGE</a>
-        </div>
-        <div class="col-md-6 d-flex justify-content-center mb-3">
-            <a href="https://www.twitch.tv/dragonblazev2" class="button">GO DIRECTLY TO MY TWITCH PAGE</a>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-12 d-flex justify-content-center">
-            <a href="https://discord.gg/7HRXdh7" class="button">GO DIRECTLY TO MY DISCORD</a>
-        </div>
-    </div>
-</div>
-</div>
 </body>
 </html>

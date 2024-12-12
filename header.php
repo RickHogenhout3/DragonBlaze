@@ -2,9 +2,9 @@
         <nav class="navbar">
             <div class="logo">DragonBlaze</div>
             <ul class="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">My Youtube channel</a></li>
-                <li><a href="#">Top Level e-sports</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="channel.php">My Youtube channel</a></li>
+                <li><a href="top-level.php">Top Level e-sports</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropbtn">Dutch Pokemon Story</a>
                     <div class="dropdown-content">
